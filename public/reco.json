@@ -1,0 +1,30 @@
+{
+  "city": "kathmandu",
+  "service": "cleaning",
+  "top": 6,
+  "generated": true,
+  "results": [
+    {
+      "uid": "w1",
+      "name": "Anil Shrestha",
+      "city": "kathmandu",
+      "primaryService": "cleaning",
+      "ratingAvg": 4.6,
+      "ratingCount": 28,
+      "lat": 27.7172,
+      "lng": 85.324,
+      "score": 0.9208431791594607
+    },
+    {
+      "uid": "w6",
+      "name": "Manish Gurung",
+      "city": "bhaktapur",
+      "primaryService": "cleaning",
+      "ratingAvg": 4.0,
+      "ratingCount": 10,
+      "lat": 27.68,
+      "lng": 85.42,
+      "score": 0.5599999999999999
+    }
+  ]
+}
